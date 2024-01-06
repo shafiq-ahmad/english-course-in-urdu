@@ -1,64 +1,90 @@
-# Class 04: Missing values
+# English Vocabulary
 
-Configure VS Code to open conda in VS Code Terminal. Follow below steps
+Home Page [Click Here ...](../)
 
-- Press `ctrl+,` for settings
-- Search for setting 'Conda path'
-- Save the path here as following and close
-  - >C:\Users\username\miniconda3
-- `Ctrl+Shift+P`: Select python interpreter
-- Open the terminal from above. Note that it will run only in `cmd.exe` not `powershell`
+## Class 01
 
-Missing values rules
+- Introduction
+- 2-Letter Words
 
-- If too much missing value remove them mostly (if more than 50% and field isn't important)
+[![Class Video](https://img.youtube.com/vi/8bBcBj0mMaY/0.jpg)](https://youtu.be/8bBcBj0mMaY)
 
-See exercise file [Click Here ...](../../exercise-files/class-04/missing-values.ipynb)
+## Class 02
 
-## Explore the Data
+- 3-Letter Words
 
-- Feel the Data
-- Find out who gathered the Data (the source)
-- What is this data about
-- find Meta data. eg what are meaning of column name and what they hold, and what value means
-- find data dimension by `info()` function.
+[![Class Video](https://img.youtube.com/vi/CzUPJmt0SIE/0.jpg)](https://youtu.be/CzUPJmt0SIE)
 
-### Find the following 4 things of data
+## Class 03
 
-- Composition of data
-- Correlation: 1 0 -1
-  - Highly correlative: 0.5 or more
-  - Highly correlative negitive:  -0.5 or less
+- 4 Letter Words
 
-- Comparison: using group by function
-- Distribution of data
+[![Class Video Part 1](https://img.youtube.com/vi/Xgv8t-SqyJ0/0.jpg)](https://youtu.be/Xgv8t-SqyJ0)
+[![Class Video Part 2](https://img.youtube.com/vi/kOvNYG8GbwI/0.jpg)](https://youtu.be/kOvNYG8GbwI)
+[![Class Video Part 3](https://img.youtube.com/vi/iv77TOrg4uA/0.jpg)](https://youtu.be/iv77TOrg4uA)
 
-### Descriptive data analytics
+## Class 04
 
-When using above 4 methods are used to analyze the data then its called
+- Names of months, seasons, and greetings of different times
 
-Diagostic: is when handling missing value with above
+[![Class Video](https://img.youtube.com/vi/_de4Z30C4NA/0.jpg)](https://youtu.be/_de4Z30C4NA)
 
-### EDA is also called
+## Class 05
 
-- Data exploration
-- Data wranggling
-- data munging
-- data pre processing
-- data cleaning
+- Words related to humans
 
-## Statistical terms
+[![Class Video](https://img.youtube.com/vi/QGEgh9x3f_4/0.jpg)](https://youtu.be/QGEgh9x3f_4)
 
-- Mean: The mean (average) of a data set is found by adding all numbers in the data set and then dividing by the number of values in the set
-- Median: The median is the middle value when a data set is ordered from least to greatest
-- Mode: The mode is the number that occurs most often in a data set.
+## Class 06
 
-## Methods to impute the missing values
+- Color's names
 
-- Mean/median/mode imputation: This involves replacing missing values with the mean, median, or mode of the non-missing values in the column.
-- K-nearest neighbors imputation: This method finds the k most similar rows to the row with the missing value and replaces the missing value with the average of the non-missing values in those k rows. This is more accurate than last one.
-- Multiple imputation: This method creates multiple imputed versions of the dataset, each with the missing values replaced using a different imputation method. It can be more accurate and unbias
-- Regression imputation: This involves using a regression model to predict the missing values based on the non-missing values in the dataset.
-- Interpolation: This involves using a statistical method to estimate the missing values based on the neighboring values.
-- Pattern substitution: This involves identifying patterns in the data and using those patterns to impute the missing values.
-- Maximum likelihood estimation: This statistical method estimates the missing values in a way that maximizes the likelihood of the observed data.
+[![Class Video](https://img.youtube.com/vi/n3TiziC6RN0/0.jpg)](https://youtu.be/n3TiziC6RN0)
+
+## Class 07
+
+- Names of relations and relatives
+
+[![Class Video](https://img.youtube.com/vi/V2FxDqBv4Ns/0.jpg)](https://youtu.be/V2FxDqBv4Ns)
+
+## Class 08
+
+- Names of famous professions
+
+[![Class Video](https://img.youtube.com/vi/NROoGB3gd1Q/0.jpg)](https://youtu.be/NROoGB3gd1Q)
+
+## Class 09
+
+- Different forms of human
+
+[![Class Video](https://img.youtube.com/vi/znLwOeg1fAg/0.jpg)](https://youtu.be/znLwOeg1fAg)
+
+## Class 10
+
+- Human and animal Body parts
+
+[![Class Video](https://img.youtube.com/vi/MHu6enSCXns/0.jpg)](https://youtu.be/MHu6enSCXns)
+
+## Class 11
+
+- Body parts names of animals and insects
+
+[![Class Video](https://img.youtube.com/vi/CMsrrMpKVZg/0.jpg)](https://youtu.be/CMsrrMpKVZg)
+
+## Class 12
+
+- Names of birds
+
+[![Class Video](https://img.youtube.com/vi/h5D_KCw96AQ/0.jpg)](https://youtu.be/h5D_KCw96AQ)
+
+## Class 13
+
+- Animals names
+
+[![Class Video](https://img.youtube.com/vi/HR4VrWE40bk/0.jpg)](https://youtu.be/HR4VrWE40bk)
+
+## Class 14
+
+- Names of flowers
+
+[![Class Video](https://img.youtube.com/vi/J7TlGEbcDRw/0.jpg)](https://youtu.be/J7TlGEbcDRw)
